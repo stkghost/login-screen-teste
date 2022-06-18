@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "login-teste",
+    "slug": "login-teste",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
